@@ -1,0 +1,43 @@
+.nav-container  {
+    display: flex;
+    
+}
+
+.nav-container {
+    display: flex;
+    border: 1px solid blue ;
+    min-height: 50px;
+    justify-content: space-between;
+}
+
+/* banner section */
+.banner{
+    display: flex;
+    justify-content: space-between;
+}
+
+/* online-game section */
+
+.online-game{
+    display: flex;
+
+}
+
+/* play-instantly */
+
+.play-instantly{
+    display: flex;
+}
+/* footer section */
+.footer{
+    display: flex;
+    justify-content: center;
+}
+
+.text-item{
+
+    text-align: center;
+}
+.terms-condition{
+    display: flex;
+}
